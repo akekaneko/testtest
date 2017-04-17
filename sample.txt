@@ -3,3 +3,5 @@
 githubで再度修正
 
 Localで修正
+
+developブランチを作成しコミットする
